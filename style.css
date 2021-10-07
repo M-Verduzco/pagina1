@@ -1,0 +1,15 @@
+
+
+        table{
+            font-family: 'Courier New', Courier, monospace;
+            border-collapse: collapse;  
+            width: 50%;
+        }
+        td,th{
+            border: 1px solid #dddddd;
+            text-align: center;
+        }
+        div.cities{
+            background-color: rgb(36, 206, 149);
+            color: white
+        }
